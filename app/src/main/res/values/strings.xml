@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Smart Shop Pro</string>
+    <string name="app_subtitle">مدير المحل الذكي</string>
+    <string name="nav_sales">المبيعات</string>
+    <string name="nav_products">المنتجات</string>
+    <string name="nav_inventory">المخزون</string>
+    <string name="nav_customers">الزبائن</string>
+    <string name="nav_credit">الكريدي</string>
+    <string name="nav_expenses">المصاريف</string>
+    <string name="nav_purchases">المشتريات</string>
+    <string name="nav_reports">التقارير</string>
+    <string name="nav_ai_assistant">المساعد الذكي</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_more">المزيد</string>
+    <string name="cd_search">بحث</string>
+    <string name="cd_clear">مسح</string>
+    <string name="cd_cart">سلة المشتريات</string>
+    <string name="cd_add">إضافة</string>
+    <string name="cd_edit">تعديل</string>
+    <string name="cd_delete">حذف</string>
+    <string name="cd_back">رجوع</string>
+    <string name="cd_lock">قفل الجلسة</string>
+    <string name="cd_quick_entry">إدخال سريع</string>
+</resources>
